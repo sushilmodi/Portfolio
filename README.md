@@ -37,9 +37,8 @@ The website is designed using HTML, CSS, JavaScript, PHP, and MySQL for backend 
 
 ## 📸 Preview
 
-You can view the live project (if published) here:  
-👉 **Live Demo:** *(Will be added after GitHub Pages / hosting setup)*
-
+You can view the live project  here:  
+👉 **Live Demo:** https://sushilmodi.github.io/Portfolio/
 ---
 
 ## 📬 Contact Me
